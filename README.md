@@ -33,8 +33,8 @@ If you want to add anything new, just fork this repo and send me a pull request.
 * [Slick](https://github.com/kenwheeler/slick): The last carousel you'll ever need.
 
 >
-[![star this repo](http://githubbadges.com/star.svg?user=kenwheeler&repo=slick&style=flat)](https://github.com/kenwheeler/slick)
-[![fork this repo](http://githubbadges.com/fork.svg?user=kenwheeler&repo=slick&style=flat)](https://github.com/kenwheeler/slick/fork)
+[![GitHub stars](https://img.shields.io/github/stars/kenwheeler/slick.svg?style=social&label=Star)](https://github.com/kenwheeler/slick)
+[![GitHub forks](https://img.shields.io/github/forks/kenwheeler/slick.svg?style=social&label=Fork)](https://github.com/kenwheeler/slick/fork)
 [![downloads](https://img.shields.io/npm/dm/slick.svg)](https://npmjs.org/package/slick)
 
 ## Layout
